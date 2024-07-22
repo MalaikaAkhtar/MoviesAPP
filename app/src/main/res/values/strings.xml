@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoviesApi</string>
+    <string name="web_series">web_series</string>
+    <string name="genres">genres</string>
+    <string name="special">special</string>
+    <string name="movies">movies</string>
+    <string name="SFVideos">SFVideos</string>
+    <string name="description">description</string>
+    <string name="watch_now">Watch Now</string>
+    <string name="title">Title</string>
+    <string name="movie_title">movie_title</string>
+    <string name="trending_now">trending_now</string>
+</resources>
